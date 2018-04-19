@@ -1,6 +1,6 @@
 {
   "name": "sense-joystick",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Module to interface with sensehat joystick",
   "main": "lib/index.js",
   "author": "Cameron Diver <cameron@resin.io>",
